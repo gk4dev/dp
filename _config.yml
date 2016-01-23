@@ -11,7 +11,7 @@ email: me@mydomain.com
 description: > # this means to ignore newlines until "baseurl:"
   This is a web developer website.
 baseurl: "/dp" # the subpath of your site, e.g. /blog
-url: "http://exemple.com" # the base hostname & protocol for your site
+url: "http://fixsitenow.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
 
